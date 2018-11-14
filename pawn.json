@@ -1,0 +1,7 @@
+{
+    "user": "MP2",
+	"repo": "cuffs-samp",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	]
+}
